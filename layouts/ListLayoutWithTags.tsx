@@ -81,12 +81,12 @@ export default function ListLayoutWithTags({
         <div className="divide-y divide-gray-200 dark:divide-gray-700">
           <div className="space-y-2 pb-8 pt-6 md:space-y-5">
             <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-              Artikel
+              Article
             </h1>
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-              Halo! Di sini kamu bisa menemukan berbagai artikel menarik mulai dari tips
-              sehari-hari, pembahasan mendalam tentang pemrograman, hingga panduan praktis dan
-              teknologi terbaru.
+              Hey there! Welcome! Here, you can dive into a bunch of cool articles, from everyday
+              tips and in-depth programming discussions to practical guides and the latest tech
+              trends.
             </p>
           </div>
           {/* <div className="hidden h-full max-h-screen min-w-[280px] max-w-[280px] flex-wrap overflow-auto rounded bg-gray-50 pt-5 shadow-md dark:bg-gray-900/70 dark:shadow-gray-800/40 sm:flex">
